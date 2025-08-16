@@ -4,7 +4,7 @@
 
 A **smart contract** that securely holds a tenant’s **rent deposit** on-chain during the lease period.
 
-- 🏠 **Tenant** locks deposit → safe & transparent 
+- 🏠 **Tenant** locks deposit → safe & transparent  
 - 📅 Deposit stays locked until the lease ends
 - 🔓 **Auto-refund** to tenant if no dispute arises
 - ⚖️ If there’s a **dispute**, funds are released only after:
