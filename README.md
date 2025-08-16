@@ -11,7 +11,7 @@ A **smart contract** that securely holds a tenant’s **rent deposit** on-chain 
   - ✅ Mutual agreement (both landlord & tenant approve same split)  
   - 👨‍⚖️ Resolver/arbitrator decides distribution 
 
----
+--- 
 
 ## 🤔 Why
 
