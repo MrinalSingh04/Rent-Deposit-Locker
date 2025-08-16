@@ -7,7 +7,7 @@ A **smart contract** that securely holds a tenant’s **rent deposit** on-chain 
 - 🏠 **Tenant** locks deposit → safe & transparent  
 - 📅 Deposit stays locked until the lease ends 
 - 🔓 **Auto-refund** to tenant if no dispute arises 
-- ⚖️ If there’s a **dispute**, funds are released only after:
+- ⚖️ If there’s a **dispute**, funds are released only after: 
   - ✅ Mutual agreement (both landlord & tenant approve same split) 
   - 👨‍⚖️ Resolver/arbitrator decides distribution 
 
